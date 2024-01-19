@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 * 🖥️  See my portfolio [here](email)
-* ✉️  You can contact me at [jchangalang9@gmail.com](mailto:email)
+* ✉️  You can contact me at [jchang8@caltech.edu](mailto:email)
 
 ### Skills
 
