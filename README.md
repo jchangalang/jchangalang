@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jacob Chang
 =============================================================================================================================
 
-* 🖥️  See my portfolio [here](email)
 * ✉️  You can contact me at [jchang8@caltech.edu](mailto:email)
 
 ### Skills
